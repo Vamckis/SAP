@@ -46,5 +46,5 @@ SAP Architecture contains three layers:
 - Individual Users are client dependent. Need not be in all clients.
 - Background/Business users are client independent, available in all clients.
 
-- sm50 : Work Processes
+- sm50 : To view Work Processes
   ![image](https://github.com/user-attachments/assets/a1ecf8e0-524b-4046-a249-7bdeecab2b2a)
