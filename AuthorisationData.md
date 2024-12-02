@@ -37,3 +37,9 @@
 - su21 has all the classes
 - ![image](https://github.com/user-attachments/assets/d24e398b-631f-4675-8c7e-29fc19781b9a)
 - ![image](https://github.com/user-attachments/assets/b11dd90c-4b45-47d2-ad24-ff5ace20d363)
+- ![image](https://github.com/user-attachments/assets/a07d74b9-4165-4e15-98dd-bc9047c279d1)
+
+Generally, teams will ask to provide acces to a tcode, but not to object.
+### su24 : to find transaction related objects
+- ![image](https://github.com/user-attachments/assets/9fc88d1d-583c-41a4-9a82-37586f20c245)
+- ![image](https://github.com/user-attachments/assets/e8846909-f869-42ec-b4cb-cb559f8100d0)
