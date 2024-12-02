@@ -44,6 +44,7 @@ Generally, teams will ask to provide acces to a tcode, but not to object.
 - ![image](https://github.com/user-attachments/assets/9fc88d1d-583c-41a4-9a82-37586f20c245)
 - ![image](https://github.com/user-attachments/assets/e8846909-f869-42ec-b4cb-cb559f8100d0)
 - Proposal check value = Yes, are the objects which will be called during execution of tcode, Remaining all are supporting objects.
+- So roles should have objectes, whose proposal check value is Yes.
 
 ### se93 : Maintain Transaction.
 - se93 shows the program behind tcode.
