@@ -62,3 +62,6 @@
 
 - Groups:
 ![image](https://github.com/user-attachments/assets/56fe7944-ba44-4047-82e6-3a91e80e2c56)
+
+- License data : varies depending on project license.
+![image](https://github.com/user-attachments/assets/e0ccfca8-7dd4-4ee1-ba75-0a04b1c33ff5)
