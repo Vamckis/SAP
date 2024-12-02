@@ -13,7 +13,9 @@
 - Password Status:
   - Initial Password (Set by Administrator) :  Password will be set by Security person and need to modify while logging in for 1st time.
   - Productive Password : After User changing password, status changes
+
 ![image](https://github.com/user-attachments/assets/8c31b75a-8803-457f-b635-a91c0d7148fb)
+
 ![image](https://github.com/user-attachments/assets/0cf3d78b-a2f9-4feb-8df0-0d93c027e563)
 
 - SNC : Secure Network Communication.
