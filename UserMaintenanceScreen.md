@@ -1,6 +1,6 @@
 ## su01 : User Maintenance initial screen.
-- ![image](https://github.com/user-attachments/assets/3904086a-7dbf-440f-87a6-0af9407dfa4e)
-Below are the logos in su01 screen:
+![image](https://github.com/user-attachments/assets/3904086a-7dbf-440f-87a6-0af9407dfa4e)
+- Below are the logos in su01 screen:
 <details>
 <summary> Create </summary>
   - LastName and Password fields are mandate to create a user.
@@ -39,15 +39,28 @@ Below are the logos in su01 screen:
 
 - Profiles: Profiles will be added when you select a role. Profile will be attached to role during Role creation.
 ![image](https://github.com/user-attachments/assets/6a821b1e-546f-4594-adb7-03c25a15de29)
+
+- Groups:
+![image](https://github.com/user-attachments/assets/56fe7944-ba44-4047-82e6-3a91e80e2c56)
+
+- License data : varies depending on project license.
+![image](https://github.com/user-attachments/assets/e0ccfca8-7dd4-4ee1-ba75-0a04b1c33ff5)
+
+
 </details>
 
 - Edit
 - View
 - Delete
-- Copy User : Apart from address data, remaining all details can be copied.
+
+<details>
+<summary>Copy User : </summary>
+  - Apart from address data, remaining all details can be copied.
   - ![image](https://github.com/user-attachments/assets/1a394199-f177-443c-aea0-56d5288423b7)
   - While copying, Last name will be automatically populated with username.
-- Lock : To lock the user
+</details>
+<details>
+<summary> Lock User : </summary>
   -  ![image](https://github.com/user-attachments/assets/2309e2b2-2a57-4aec-9df2-20b550d85814)
   -  To know reason why the user is locked, check Change documents under, Information --> Change Documents
     - ![image](https://github.com/user-attachments/assets/90412729-b12b-41cf-9c4d-1c6d71ae7c7b)
@@ -58,6 +71,6 @@ Below are the logos in su01 screen:
      - 64 : Admin Lock
      - 128 : Incorrect Passowrd lock
      - 32 : CUA lock (Central User Administration). If user is locked in CUA system, then it will be locked in all other systems, showing 32 code.
-
+</details>
 - Password change
   - ![image](https://github.com/user-attachments/assets/d34a1cca-20d5-455e-ae1e-7273fc064686)
