@@ -1,9 +1,3 @@
-## SAP Security Role Resposibilities:
-- Create Account for user : su01
-  - Before creating account, User need to get approvals from Manager and Role Owner.
-  - User has to fill Access Request form and provide to SAP Security team. 
-- Provide access to user, types of users, access issues, troubleshooting
-
 ### Create a User:
 - su01 : User create
 ![image](https://github.com/user-attachments/assets/0355965f-3e4e-42a5-b322-df529ed8063e)
