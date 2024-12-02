@@ -4,6 +4,7 @@
 <details>
 <summary> Create </summary>
   - LastName and Password fields are mandate to create a user.
+  
 ![image](https://github.com/user-attachments/assets/ca2c93bf-4e15-4209-ac62-35e1dc61ffad)
 ![image](https://github.com/user-attachments/assets/5c6c8a5f-3a3d-4a63-996e-1bcfadd087e2)
 
@@ -56,11 +57,13 @@
 <details>
 <summary>Copy User : </summary>
   - Apart from address data, remaining all details can be copied.
+  
   - ![image](https://github.com/user-attachments/assets/1a394199-f177-443c-aea0-56d5288423b7)
   - While copying, Last name will be automatically populated with username.
 </details>
 <details>
 <summary> Lock User : </summary>
+  
   -  ![image](https://github.com/user-attachments/assets/2309e2b2-2a57-4aec-9df2-20b550d85814)
   -  To know reason why the user is locked, check Change documents under, Information --> Change Documents
     - ![image](https://github.com/user-attachments/assets/90412729-b12b-41cf-9c4d-1c6d71ae7c7b)
@@ -73,4 +76,5 @@
      - 32 : CUA lock (Central User Administration). If user is locked in CUA system, then it will be locked in all other systems, showing 32 code.
 </details>
 - Password change
-![image](https://github.com/user-attachments/assets/d34a1cca-20d5-455e-ae1e-7273fc064686)
+
+  - ![image](https://github.com/user-attachments/assets/d34a1cca-20d5-455e-ae1e-7273fc064686)
