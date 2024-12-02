@@ -13,10 +13,8 @@
 - Password Status:
   - Initial Password (Set by Administrator) :  Password will be set by Security person and need to modify while logging in for 1st time.
   - Productive Password : After User changing password, status changes
-
-![image](https://github.com/user-attachments/assets/8c31b75a-8803-457f-b635-a91c0d7148fb)
-
-![image](https://github.com/user-attachments/assets/0cf3d78b-a2f9-4feb-8df0-0d93c027e563)
+  - ![image](https://github.com/user-attachments/assets/8c31b75a-8803-457f-b635-a91c0d7148fb)
+  - ![image](https://github.com/user-attachments/assets/0cf3d78b-a2f9-4feb-8df0-0d93c027e563)
 
 - SNC : Secure Network Communication.
   - Helps to logon into system without password. It is difficult to save passwords for all multiple systems.
@@ -75,4 +73,4 @@
      - 32 : CUA lock (Central User Administration). If user is locked in CUA system, then it will be locked in all other systems, showing 32 code.
 </details>
 - Password change
-  - ![image](https://github.com/user-attachments/assets/d34a1cca-20d5-455e-ae1e-7273fc064686)
+![image](https://github.com/user-attachments/assets/d34a1cca-20d5-455e-ae1e-7273fc064686)
