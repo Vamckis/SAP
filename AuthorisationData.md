@@ -43,3 +43,14 @@ Generally, teams will ask to provide acces to a tcode, but not to object.
 ### su24 : to find transaction related objects
 - ![image](https://github.com/user-attachments/assets/9fc88d1d-583c-41a4-9a82-37586f20c245)
 - ![image](https://github.com/user-attachments/assets/e8846909-f869-42ec-b4cb-cb559f8100d0)
+- Proposal check value = Yes, are the objects which will be called during execution of tcode, Remaining all are supporting objects.
+
+### se93 : Maintain Transaction.
+- se93 shows the program behind tcode.
+- ![image](https://github.com/user-attachments/assets/b1e487f9-9c05-4320-9cf3-0c49d36efcc2)
+
+### sa38 : To execute a program manually
+- ![image](https://github.com/user-attachments/assets/ae8e9ef7-87a5-4d97-a1b7-085c7f8a1851)
+
+### se38 : To create, view, edit a program
+- ![image](https://github.com/user-attachments/assets/3c45922c-94b6-46f2-8cb8-947ac536930f)
