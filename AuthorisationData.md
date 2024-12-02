@@ -1,6 +1,9 @@
 ## pfcg : Role Maintenance
 ![image](https://github.com/user-attachments/assets/990223a1-7bc1-4126-9dc7-c25b03a35d2d)
 
+- Display Authorization Data is the last icon in below screenshot:
+![image](https://github.com/user-attachments/assets/9b65688d-6622-46f6-ab46-e59443ea83c8)
+
 <details>
 <summary>Authorisation data Heirarchy is as below:</summary>
   
