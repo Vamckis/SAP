@@ -1,5 +1,5 @@
 ### su01 : User Maintenance initial screen.
-![image](https://github.com/user-attachments/assets/3904086a-7dbf-440f-87a6-0af9407dfa4e)
+- ![image](https://github.com/user-attachments/assets/3904086a-7dbf-440f-87a6-0af9407dfa4e)
 Below are the logos in su01 screen:
 - Create
 - Edit
@@ -19,3 +19,6 @@ Below are the logos in su01 screen:
      - 64 : Admin Lock
      - 128 : Incorrect Passowrd lock
      - 32 : CUA lock (Central User Administration). If user is locked in CUA system, then it will be locked in all other systems, showing 32 code.
+
+- Password change
+  - ![image](https://github.com/user-attachments/assets/d34a1cca-20d5-455e-ae1e-7273fc064686)
