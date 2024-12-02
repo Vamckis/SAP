@@ -27,9 +27,13 @@
 ![image](https://github.com/user-attachments/assets/ca2c93bf-4e15-4209-ac62-35e1dc61ffad)
 ![image](https://github.com/user-attachments/assets/5c6c8a5f-3a3d-4a63-996e-1bcfadd087e2)
 
+- User Types:
+![image](https://github.com/user-attachments/assets/e349108a-fd2a-49d5-80a0-286f8cc8699e)
+
 - Password Status:
   - Initial Password (Set by Administrator) :  Password will be set by Security person and need to modify while logging in for 1st time.
   - Productive Password : After User changing password, status changes
+![image](https://github.com/user-attachments/assets/8c31b75a-8803-457f-b635-a91c0d7148fb)
+![image](https://github.com/user-attachments/assets/0cf3d78b-a2f9-4feb-8df0-0d93c027e563)
 
-- User Types:
-![image](https://github.com/user-attachments/assets/e349108a-fd2a-49d5-80a0-286f8cc8699e)
+
