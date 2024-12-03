@@ -1,0 +1,17 @@
+When a compony gets an SAP project, it need to follow below 5 steps:
+- Project Preparation:
+  - Initial planning and preparation for SAP project like Modules, team size, Duration, Budget etc
+- Business Blueprint: Based on client requirement, detailed documentation will be prepared in workshops. 
+  - Prepare System Landscape
+  - Implemenation date, Completion date, signoff
+  - Process design
+- Realization:
+  - Configuration / Customization
+  - Developemnts
+  - Integration test
+  - User Acceptance  
+- Final Preparation: complete test to finalize readiness to go live.
+  - Data converted 
+  - Unit test
+  - ENd user test
+- Go-Live & Support: development objects mpoved to production systems.
