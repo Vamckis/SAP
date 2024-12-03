@@ -1,5 +1,26 @@
-# SAP Architecture
-SAP Architecture contains three layers:
+# SAP - Systems Applications Products in DataProcessing
+SAP is an ERP application (Enterprise Resource Planning), contains 80+ modules. SAP mmodules are 2 types:
+- Functional Modules
+  - SAP MM
+  - SAP HR
+  - SAP QM
+  - SAP FICO
+  - SAP PP
+  - SAP SD
+- Technical Modules
+  - SAP ABAP (Advanced Business Application Programming) : Developers
+  - SAP BASIS : Performs System Adminstartion activites
+    - Software installations
+    - System connections
+    - Background jobs running
+    - System issues
+    - Troubleshooting
+  - SAP Security
+    - Account creation
+    - Credentials management
+    - Access provisioning to users (End users / IT users)
+
+### SAP Architecture contains three layers:
 - Presentation Layer : It is UI software (SAP GUI)
 - Application Layer : It is processing machine of SAP. It contains Process and Services
   - Process
@@ -12,6 +33,7 @@ SAP Architecture contains three layers:
     - Message : Load balancing among app servers.
     - Gateway : Communication channel between 2 SAP systems or 1 SAP to 1 Non-SAP service.
 - Database Layer
+
 ### SAP Landscape
 - Generally there wil be 3 System Landscapes:
   - Developments
@@ -20,7 +42,7 @@ SAP Architecture contains three layers:
 - Below are some SAP functional modules
   - SAP Finance (FD1, FQ1, FP1)
   - SAP HR (HD1, HQ1, HP1)
-  - SAP Sales (SD1, SQ1, SP1)
+  - SAP Sales Distribution (SD1, SQ1, SP1)
   - SAP CRM (CD1, CQ1, CP1)
   - SAP ECC (ED1, EQ1, EP1)
 - Basis, Security and ABAP are technical and admin teams
