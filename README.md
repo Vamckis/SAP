@@ -36,15 +36,18 @@ SAP is an ERP application (Enterprise Resource Planning), contains 80+ modules. 
 
 ### SAP Landscape
 - Generally there wil be 3 System Landscapes:
-  - Developments
-  - Quality
+  - Development System 
+  - Quality System
   - Production systems
-- Below are some SAP functional modules
+
+### SAP System (System IDs)
   - SAP Finance (FD1, FQ1, FP1)
   - SAP HR (HD1, HQ1, HP1)
   - SAP Sales Distribution (SD1, SQ1, SP1)
   - SAP CRM (CD1, CQ1, CP1)
   - SAP ECC (ED1, EQ1, EP1)
+  - SAP GRC (GD1, GQ1, GP1)
+  - SAP BI (BD1, BQ1, BP1)
 - Basis, Security and ABAP are technical and admin teams
 - Basis team will create Clients using Tcodes-SCC (Supply Chain Collaboration).
   - scc4 : To create a client and open SAP environment in edit mode. It Copies data from standard client to other clients.
